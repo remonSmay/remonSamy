@@ -25,13 +25,13 @@ Always learning, always building.
 ## 🚀 Projects
 Here are some of my highlighted works:
 
-- 🔹 [Taxi Trip Duration Prediction]([https://github.com/USERNAME/taxi-trip](https://github.com/remonSmay/nyc-taxi-trip-duratin))  
+- 🔹 [Taxi Trip Duration Prediction]((https://github.com/remonSmay/nyc-taxi-trip-duratin))  
   *Predicting trip times using ML models & feature engineering*
 
 - 🔹 [SuperStore EDA](https://github.com/USERNAME/superstore-eda)  
   *Data analysis & visualization project*
 
-- 🔹 [Credit Card Fraud Detection]([https://github.com/USERNAME/fraud-detection](https://github.com/remonSmay/Credit_Card_Fraud_Detection))  
+- 🔹 [Credit Card Fraud Detection]((https://github.com/remonSmay/Credit_Card_Fraud_Detection))  
   *Machine learning classification with imbalanced data handling*
 
 ---

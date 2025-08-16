@@ -1,7 +1,45 @@
-# Hi, I'm Reko 👋
+# Hi there, I'm Remon Samy - 👋
 
-- 🔭 I’m currently working on **Machine Learning & Competitive Programming**
-- 🌱 I’m learning **DSA, Python, and C++**
-- ⚡ Fun fact: I love mixing 🎵 + 💻
+Welcome to my GitHub profile! 🚀  
+I’m passionate about **Machine Learning, Competitive Programming, and Clean Code**.  
+Always learning, always building.  
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reko-dev&show_icons=true&theme=radical)
+---
+
+## 👨‍💻 About Me
+- 🌱 I’m currently learning **C++, Python, DSA, ML**
+- 💡 Interested in ** AI & Deep Learning & Flutter**
+- 🎯 Goal: Mastering **Machine Learning + Problem Solving**
+- ⚡ Fun fact: I enjoy mixing tech with creativity 😎
+
+---
+
+## 🛠 Skills
+- **Languages:** C++, Python, JavaScript , Dart
+- **Frameworks:** , PyTorch, TensorFlow , Flutter
+- **Tools:** Git, Linux
+- **Databases:**  PostgreSQL  
+
+---
+
+## 🚀 Projects
+Here are some of my highlighted works:
+
+- 🔹 [Taxi Trip Duration Prediction]([https://github.com/USERNAME/taxi-trip](https://github.com/remonSmay/nyc-taxi-trip-duratin))  
+  *Predicting trip times using ML models & feature engineering*
+
+- 🔹 [SuperStore EDA](https://github.com/USERNAME/superstore-eda)  
+  *Data analysis & visualization project*
+
+- 🔹 [Credit Card Fraud Detection]([https://github.com/USERNAME/fraud-detection](https://github.com/remonSmay/Credit_Card_Fraud_Detection))  
+  *Machine learning classification with imbalanced data handling*
+
+---
+
+## 📊 GitHub Stats
+![Reko's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
+
+---
+
+## 🌐 Connect with Me
+- 💼 [LinkedIn](www.linkedin.com/in/remon-samy-08b3a621a)  
